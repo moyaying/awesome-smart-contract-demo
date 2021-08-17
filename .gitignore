@@ -1,0 +1,10 @@
+node_modules
+
+#Hardhat files
+cache
+artifacts
+mcore_**
+crytic-export
+.env
+package-lock.json
+.vscode
